@@ -1,0 +1,11 @@
+{
+  "name": "campus-used-trading-platform-afterend",
+  "version": "1.0.0",
+  "description": "校园二手交易平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wmq",
+  "license": "ISC"
+}
